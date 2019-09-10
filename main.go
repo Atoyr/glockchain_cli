@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	cli := cli.NewCli()
-	cli.App.Run(os.Args)
+	c := cli.NewCLI()
+	c.App.Run(os.Args)
 }

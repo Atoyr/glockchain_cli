@@ -1,4 +1,4 @@
-package glockchain_cli
+package cli
 
 import (
 	"fmt"
